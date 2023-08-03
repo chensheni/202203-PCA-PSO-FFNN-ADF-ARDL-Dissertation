@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+pandas_ta
+yfinance
+pandas_datareader
+statsmodels
+sklearn
+pytest
+nbval
